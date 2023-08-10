@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@backend/*": ["backend/src/*"],
+      "@frontend/*": ["frontend/src/*"],
+      "@database/*": ["database/*"]
+    },
+    "jsx": "react"
+  },
+  "include": [
+    "frontend/src",
+    "backend/src",
+    "database"
+  ]
+}

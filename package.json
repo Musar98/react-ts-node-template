@@ -1,0 +1,20 @@
+{
+  "name": "tsx-node-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "start": "",
+    "build": "",
+    "test": "",
+    "eject": ""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  }
+}
